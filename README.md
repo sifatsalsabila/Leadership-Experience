@@ -22,7 +22,7 @@ Achievements:
 
 <img src="https://github.com/user-attachments/assets/321843d2-2553-4e84-a6c6-b55587a39cf3" alt="U" width="400" height="300"> <img src="https://github.com/user-attachments/assets/ab86e390-c33c-4349-a8a7-a65e58b7446b" alt="2" width="400" height="300">
 
-## Deputy Project Manager of Group 4 Instrumentation System Design Practicum
+## Assistant Project Manager of Group 4 Instrumentation System Design Practicum
 
 
 ## Organizing Chair of “Cendekia Days 2022”
