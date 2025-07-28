@@ -18,7 +18,7 @@ Achievements:
 - Made a tool for processing plastic waste into paving blocks and fuel by pyrolysis and condensation methods. One of the articles can be accessed through the following link.
   https://ugm.ac.id/id/berita/tim-kkn-ppm-ugm-bikin-alat-paving-block-ramah-lingkungan/
 - Making home-scale biogas equipment from livestock manure
-- responsible for the main work programs of the science and technology cluster, one of which is the “Bulukerto Nature Camp” with more than 70 participants in two implementations.
+- responsible for the main work programs of the science and technology cluster, one of which is the “Kemah Alam Bulukerto” with more than 70 participants in two implementations.
 
 <img src="https://github.com/user-attachments/assets/321843d2-2553-4e84-a6c6-b55587a39cf3" alt="U" width="400" height="300"> <img src="https://github.com/user-attachments/assets/ab86e390-c33c-4349-a8a7-a65e58b7446b" alt="2" width="400" height="300">
 
